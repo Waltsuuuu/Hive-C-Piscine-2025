@@ -15,7 +15,7 @@ Exams were held weekly during the Piscine and followed a strict, isolated format
 
 #### - Rushes
 
-Rushes took place on weekends and were team-based projects designed to test collaboration, problem-solving, and time management. Unlike the solo projects and exams during the week, Rushes required close cooperation between Pisciners to complete large-scale programming challenges under strict deadlines. These projects simulated real-world development environments, emphasizing the importance of communication, teamwork, and effective task division alongside technical proficiency.
+Rushes took place on weekends and were team-based projects designed to test collaboration, problem-solving, and time management. Unlike the solo projects and exams during the week, Rushes required close cooperation between Pisciners to complete larger programming challenges under strict deadlines. These projects simulated real-world development environments, emphasizing the importance of communication, teamwork, and effective task division alongside technical proficiency.
 
 
 
