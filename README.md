@@ -1,6 +1,6 @@
 # Hive Helsinki - C Piscine 2025 🏊‍♂️
 
-Collection of my projects and the documents during the intense 4-week application period at Hive Helsinki.
+Collection of my projects and documents during the 4-week application period at Hive Helsinki.
 
 ## What is Hive Helsinki?
 Hive Helsinki is a peer-to-peer coding school located in Finland and part of the global 42 Network. It provides a full-time, tuition-free program in software engineering where students learn through project-based work rather than traditional lectures or instructors. The school focuses on self-directed learning, collaboration, and problem solving to develop strong, adaptable programmers ready for real-world challenges.
