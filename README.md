@@ -4,8 +4,7 @@ Collection of my projects and the documents during the intense 4-week applicatio
 
 ## What is Hive Helsinki?
 Hive Helsinki is a peer-to-peer coding school located in Finland and part of the global 42 Network. It provides a full-time, tuition-free program in software engineering where students learn through project-based work rather than traditional lectures or instructors. The school focuses on self-directed learning, collaboration, and problem solving to develop strong, adaptable programmers ready for real-world challenges.
-
-<br>Read more: https://www.hive.fi/en/
+<br>https://www.hive.fi/en/
 
 ## What is the C-Piscine?
 The most important part of the selection process into Hive is called the Piscine. The Piscine is designed to test endurance, logical thinking, and the ability to learn quickly. It achieves this by immersing candidates in a month-long, hands-on coding bootcamp, where they must solve complex problems, complete numerous projects, and work under tight deadlines, all while learning C programming from scratch.
