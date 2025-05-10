@@ -65,4 +65,6 @@ The Piscine brought together people from all walks of life, with different skill
 
 Collaboration and peer learning played a key role in personal growth. Long days, shared challenges, and the collective drive to improve created a supportive and motivating atmosphere. It was not only a technical bootcamp, but also a powerful lesson in perseverance, communication, and self-reliance.
 
+Coming into the Piscine, I had a bit of background in web development, but this was my first real exposure to lower-level programming. Working with C and understanding how things function closer to the hardware level sparked a genuine interest in systems programming and deepened my understanding of how computers work under the hood.
+
 
