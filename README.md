@@ -37,7 +37,7 @@ In each directory, there is a **subject.pdf** file, which contains the official 
 Completed projects:
 - C00 - C08.
 
-Rushes
+Rushes:
 - Rush 00 - 116%
 - Rush 01 - Attempted, but failed.
 - Rush 02 - No attempt.
